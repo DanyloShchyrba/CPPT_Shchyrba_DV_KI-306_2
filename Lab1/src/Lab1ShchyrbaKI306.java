@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * This class generates a square matrix with a diagonal pattern of characters
  * and writes it to a text file.
- * @author ShchyrbaDanylo
+ * @author Shchyrba Danylo
  * @version 1.0
  * @since version 1.0
  */
