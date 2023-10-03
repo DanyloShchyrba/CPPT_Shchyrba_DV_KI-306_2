@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Shchyrba.Lab2","l":"Lightbulb"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Shchyrba.Lab2","l":"Lightbulb"},{"p":"KI306.Shchyrba.Lab2","l":"LightbulbApp"}];updateSearchResults();
