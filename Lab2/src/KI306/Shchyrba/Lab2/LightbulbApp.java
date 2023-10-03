@@ -1,11 +1,6 @@
 package KI306.Shchyrba.Lab2;
 import java.io.*;
 
-/**
-* Lightbulb Application class implements main method for
-* Lightbulb class abilities demonstration
-*/
-
 public class LightbulbApp {
 	
 	public static void main(String[] args) throws FileNotFoundException {
@@ -22,6 +17,5 @@ public class LightbulbApp {
 		A.TurnOff();
 		A.GetInfo();
 		A.CloseLogFile();
-
 	}
 }
