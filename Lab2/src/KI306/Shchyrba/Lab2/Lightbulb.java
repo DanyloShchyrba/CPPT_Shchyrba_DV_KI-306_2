@@ -4,8 +4,10 @@ import java.io.FileNotFoundException;
 import java.io.*;
 
 /**
- * This class represents a Lightbulb with various attributes and functionality.
- */
+* Class <code>EquationsApp</code> This class represents a Lightbulb with various attributes and functionality.
+* @author Danylo Shchyrba
+* @version 1.0
+*/
 
 public class Lightbulb {
 	
@@ -46,6 +48,7 @@ public class Lightbulb {
 	    this.isOn = false; // Лампочка за замовчуванням вимкнена
 	    this.color = color;
 	    logFile = new PrintWriter(new File("Lightbulb_Log.txt"));
+	    
     }	
     
     /**
