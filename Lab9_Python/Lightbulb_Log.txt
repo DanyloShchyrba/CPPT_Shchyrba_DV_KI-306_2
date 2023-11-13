@@ -1,0 +1,5 @@
+Brightness level changed to 8
+Brightness level increased by 2
+Brightness level decreased by 1
+Daylight sensor enabled
+Lightbulb turned on.
